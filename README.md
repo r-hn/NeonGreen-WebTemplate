@@ -23,7 +23,7 @@ This is a **free website template** created with HTML, CSS, and JavaScript, desi
 1. **Download the Template**: Clone or download this repository to your local system.
 
    ```bash
-   git clone https://github.com/your-repo-link-here
+   git clone https://github.com/r-hn/NeonGreen-WebTemplate
    ```
 
 2. **Customize the Template**:
